@@ -1,5 +1,5 @@
     
-    ## - Desde sua instalção e configurações tanto no Windows, Mac e o Linux. 
+    ## - Desde sua instalação e configurações tanto no Windows, Mac e o Linux. 
 
     ## git config Usando sua Identidade: 
 
@@ -25,6 +25,6 @@
     - git push
 
     ETC..., entre outros.
-    https://comandosgit.github.io/
+    (https://comandosgit.github.io/)
 
     
