@@ -1,0 +1,30 @@
+    
+    ## - Desde sua instalção e configurações tanto no Windows, Mac e o Linux. 
+
+    ## git config Usando sua Identidade: 
+
+    - git config --global user.name "John Doe" 
+    - git config --global user.email johndoe@example.com 
+
+    Ativando Cores: - git config --global color.ui true 
+
+    ## git help Exitem três maneiras de ajuda
+
+    - git help {comando} - git {comando} --help 
+    - man git- {comando}
+
+    ##Criando o Projeto e seus comandos básicos:
+
+    - git init
+    - git clone
+    - git status
+    - git commit
+    - git reset
+    - git rm
+    - git pull
+    - git push
+
+    ETC..., entre outros.
+    https://comandosgit.github.io/
+
+    
