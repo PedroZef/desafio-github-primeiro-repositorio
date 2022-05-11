@@ -8,7 +8,7 @@ Repositório do Projeto sobre GIT/HUB e o meu Progresso
 ## [Comandos básicos do Git aos Avançados ](https://comandosgit.github.io/)
 
 ## GitHub
-(https://github.com/PedroZef/PedroZef.git)
+[https://github.com/PedroZef/PedroZef.git]
 
 ## Meu Linkedin
-(linkedin.com/in/pedro-z-da-silva-1752a214a)
+[linkedin.com/pedro-z-da-silva-1752a214a]
