@@ -3,7 +3,7 @@ Repositório do Projeto sobre GIT/HUB e o meu Progresso
 
 ## Links Úteis
 
-## [Sintaxe Básica sobre Markdown](https://www.markdownguide.org/basic-sintax/)
+## [Sintaxe Básica sobre Markdown](https://www.markdownguide.org/)
 
 ## [Comandos básicos do Git aos Avançados ](https://comandosgit.github.io/)
 
