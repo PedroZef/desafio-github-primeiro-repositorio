@@ -11,4 +11,4 @@ Repositório do Projeto sobre GIT/HUB e o meu Progresso
 [https://github.com/PedroZef/PedroZef.git]
 
 ## Meu Linkedin
-[https://linkedin.com/pedro-z-da-silva-1752a214a]
+[https://linkedin.com/in/pedro-z-da-silva-1752a214a]
